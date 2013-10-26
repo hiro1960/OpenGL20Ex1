@@ -1,5 +1,7 @@
 package com.example.opengl20model;
 
+// Ä“xA’Ç‰Á
+
 import android.opengl.GLSurfaceView;
 import android.os.Bundle;
 import android.app.Activity;
