@@ -1,9 +1,10 @@
-package com.example.opengl20model;
+package OpenGL20common;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.nio.ShortBuffer;
 import java.util.ArrayList;
+
 
 import android.opengl.GLES20;
 

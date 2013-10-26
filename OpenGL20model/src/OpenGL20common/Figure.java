@@ -1,7 +1,8 @@
-package com.example.opengl20model;
+package OpenGL20common;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+
 
 //ƒtƒBƒMƒ…ƒA
 public class Figure {

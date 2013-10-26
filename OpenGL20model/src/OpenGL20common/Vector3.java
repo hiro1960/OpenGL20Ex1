@@ -1,4 +1,4 @@
-package com.example.opengl20model;
+package OpenGL20common;
 
 //3要素ベクトル
 public class Vector3 {

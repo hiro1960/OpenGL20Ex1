@@ -1,4 +1,4 @@
-package com.example.opengl20model;
+package OpenGL20common;
 
 //GLオブジェクト(VertexBuffer/IndexBuffer/Material/Textureの親)
 public abstract class GLObject {

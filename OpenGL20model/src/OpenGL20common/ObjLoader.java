@@ -1,8 +1,9 @@
-package com.example.opengl20model;
+package OpenGL20common;
 
 import java.io.DataInputStream;
 import java.util.ArrayList;
 import java.util.HashMap;
+
 
 //OBJÉçÅ[É_Å[
 public class ObjLoader {

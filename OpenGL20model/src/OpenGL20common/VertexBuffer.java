@@ -1,9 +1,11 @@
-package com.example.opengl20model;
+package OpenGL20common;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.nio.FloatBuffer;
 import java.util.ArrayList;
+
+
 import android.opengl.GLES20;
 
 public class VertexBuffer extends GLObject {

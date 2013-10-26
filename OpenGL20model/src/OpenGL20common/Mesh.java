@@ -1,4 +1,4 @@
-package com.example.opengl20model;
+package OpenGL20common;
 
 //ƒƒbƒVƒ…
 public class Mesh {

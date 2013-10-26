@@ -1,7 +1,8 @@
-package com.example.opengl20model;
+package OpenGL20common;
 
 import java.io.IOException;
 import java.io.InputStream;
+
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

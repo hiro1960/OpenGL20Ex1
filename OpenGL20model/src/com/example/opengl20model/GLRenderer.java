@@ -2,6 +2,10 @@ package com.example.opengl20model;
 
 import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
+
+import OpenGL20common.GLES;
+import OpenGL20common.ObjLoader;
+import OpenGL20common.Object3D;
 import android.content.Context;
 import android.opengl.Matrix;
 import android.opengl.GLES20;

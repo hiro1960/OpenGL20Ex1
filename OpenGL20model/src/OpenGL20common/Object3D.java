@@ -1,6 +1,8 @@
-package com.example.opengl20model;
+package OpenGL20common;
 
 import java.util.ArrayList;
+
+
 import android.opengl.Matrix;
 
 //3Dオブジェクト

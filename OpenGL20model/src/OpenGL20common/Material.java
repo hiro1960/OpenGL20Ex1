@@ -1,4 +1,5 @@
-package com.example.opengl20model;
+package OpenGL20common;
+
 
 import android.opengl.GLES20;
 
